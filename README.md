@@ -32,7 +32,7 @@
 ### Vertical Velocity Patterns
 | ∇ = 0.4 | ∇ = 2.0 | ∇ = 5.0 |
 |---------|---------|---------|
-| ![V0.4](simulations/vertical_velocity/vid_w-nabla-0.4.mp4) | ![V2.0](simulations/vertical_velocity/vid_w-nabla-2.mp4) | ![V5.0](simulations/vertical_velocity/vid_w-nabla-5.mp4) |
+| ![V0.4](vid_w-nabla-0.4.mp4) | ![V2.0](simulations/vertical_velocity/vid_w-nabla-2.mp4) | ![V5.0](simulations/vertical_velocity/vid_w-nabla-5.mp4) |
 
 ### Pressure Distribution
 | ∇ = 0.4 | ∇ = 2.0 | ∇ = 5.0 |
