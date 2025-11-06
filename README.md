@@ -27,22 +27,22 @@
 ### Temperature Evolution
 | ∇ = 0.4 (Stable) | ∇ = 2.0 (Convective) | ∇ = 5.0 (Turbulent) |
 |------------------|---------------------|---------------------|
-| ![∇=0.4](simulations/temperature/vid_T-nabla-0.4.mp4) | ![∇=2.0](simulations/temperature/vid_T-nabla-2.mp4) | ![∇=5.0](simulations/temperature/vid_T-nabla-5.mp4) |
+| [∇=0.4.zip](simulations/temperature/vid_T-nabla-0.4.mp4.zip) | [∇=2.0.zip](simulations/temperature/vid_T-nabla-2.mp4.zip) | [∇=5.0.zip](simulations/temperature/vid_T-nabla-5.mp4.zip) |
 
 ### Vertical Velocity Patterns
 | ∇ = 0.4 | ∇ = 2.0 | ∇ = 5.0 |
 |---------|---------|---------|
-| ![V0.4](simulations/vertical_velocity/vid_w-nabla-0.4.mp4) | ![V2.0](simulations/vertical_velocity/vid_w-nabla-2.mp4) | ![V5.0](simulations/vertical_velocity/vid_w-nabla-5.mp4) |
+| [V0.4.zip](simulations/vertical_velocity/vid_w-nabla-0.4.mp4.zip) | [V2.0.zip](simulations/vertical_velocity/vid_w-nabla-2.mp4.zip) | [V5.0.zip](simulations/vertical_velocity/vid_w-nabla-5.mp4.zip) |
 
 ### Pressure Distribution
 | ∇ = 0.4 | ∇ = 2.0 | ∇ = 5.0 |
 |---------|---------|---------|
-| ![P0.4](simulations/pressure/vid_pressure-nabla-0.4.mp4) | ![P2.0](simulations/pressure/vid_pressure-nabla-2.mp4) | ![P5.0](simulations/pressure/vid_pressure-nabla-5.mp4) |
+| [P0.4.zip](simulations/pressure/vid_pressure-nabla-0.4.mp4.zip) | [P2.0.zip](simulations/pressure/vid_pressure-nabla-2.mp4.zip) | [P5.0.zip](simulations/pressure/vid_pressure-nabla-5.mp4.zip) |
 
 ### Density & Energy Variations
 | ∇ = 0.4 | ∇ = 2.0 | ∇ = 5.0 |
 |---------|---------|---------|
-| ![ρ0.4](simulations/density/vid_energy_density-nabla-0.4.mp4) | ![ρ2.0](simulations/density/vid_energy_density-nabla-2.mp4) | ![ρ5.0](simulations/density/vid_energy_density-nabla-5.mp4) |
+| [ρ0.4.zip](simulations/density/vid_energy_density-nabla-0.4.mp4.zip) | [ρ2.0.zip](simulations/density/vid_energy_density-nabla-2.mp4.zip) | [ρ5.0.zip](simulations/density/vid_energy_density-nabla-5.mp4.zip) |
 
 ## 📊 Key Findings
 - **∇ < 0.4**: System remains in hydrostatic equilibrium, no convection develops
