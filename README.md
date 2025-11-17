@@ -59,6 +59,11 @@
 - **∇ = 5.0**: Strong instabilities lead to turbulent behavior and numerical noise
 - **Energy conservation**: System maintains physical consistency across all parameters
 
+## 📚 Documentation
+- **Full Technical Report**: [REPORT.pdf](docs/REPORT.pdf) - *Click "View raw" to download the PDF*
+- **Academic Context**: Developed for Astrophysics course at University of Oslo
+- **FVis3 Framework**: [lars-frogner/FVis GitHub Repository](https://github.com/lars-frogner/FVis)
+
 ## 🛠️ Installation & Usage
 
 ### Prerequisites
