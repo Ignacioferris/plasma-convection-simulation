@@ -13,7 +13,7 @@
 ## 🔧 Technical Implementation
 
 ### Custom Code
-- **`hydro_solver.py`** - Main hydrodynamic solver (original implementation)
+- **`main.py`** - Main hydrodynamic solver (original implementation)
 - Boundary condition handling and initial state setup
 - Numerical schemes for fluid equations
 
@@ -24,25 +24,27 @@
 
 ## 🎬 Simulation Results
 
+> **📝 Note:** Due to large file sizes, videos must be downloaded to view. Click the links below to download each simulation.
+
 ### Temperature Evolution
 | ∇ = 0.4 (Stable) | ∇ = 2.0 (Convective) | ∇ = 5.0 (Turbulent) |
 |------------------|---------------------|---------------------|
-| [∇=0.4.zip](simulations/temperature/vid_T-nabla-0.4.mp4.zip) | [∇=2.0.zip](simulations/temperature/vid_T-nabla-2.mp4.zip) | [∇=5.0.zip](simulations/temperature/vid_T-nabla-5.mp4.zip) |
+| [📥 Download MP4](simulations/temperature/vid_T-nabla-0.4.mp4) | [📥 Download MP4](simulations/temperature/vid_T-nabla-2.mp4) | [📥 Download MP4](simulations/temperature/vid_T-nabla-5.mp4) |
 
 ### Vertical Velocity Patterns
-| ∇ = 0.4 | ∇ = 2.0 | ∇ = 5.0 |
-|---------|---------|---------|
-| [V0.4.zip](simulations/vertical_velocity/vid_w-nabla-0.4.mp4.zip) | [V2.0.zip](simulations/vertical_velocity/vid_w-nabla-2.mp4.zip) | [V5.0.zip](simulations/vertical_velocity/vid_w-nabla-5.mp4.zip) |
+| ∇ = 0.4 (Stable) | ∇ = 2.0 (Convective) | ∇ = 5.0 (Turbulent) |
+|------------------|---------------------|---------------------|
+| [📥 Download MP4](simulations/vertical_velocity/vid_w-nabla-0.4.mp4) | [📥 Download MP4](simulations/vertical_velocity/vid_w-nabla-2.mp4) | [📥 Download MP4](simulations/vertical_velocity/vid_w-nabla-5.mp4) |
 
 ### Pressure Distribution
-| ∇ = 0.4 | ∇ = 2.0 | ∇ = 5.0 |
-|---------|---------|---------|
-| [P0.4.zip](simulations/pressure/vid_pressure-nabla-0.4.mp4.zip) | [P2.0.zip](simulations/pressure/vid_pressure-nabla-2.mp4.zip) | [P5.0.zip](simulations/pressure/vid_pressure-nabla-5.mp4.zip) |
+| ∇ = 0.4 (Stable) | ∇ = 2.0 (Convective) | ∇ = 5.0 (Turbulent) |
+|------------------|---------------------|---------------------|
+| [📥 Download MP4](simulations/pressure/vid_pressure-nabla-0.4.mp4) | [📥 Download MP4](simulations/pressure/vid_pressure-nabla-2.mp4) | [📥 Download MP4](simulations/pressure/vid_pressure-nabla-5.mp4) |
 
 ### Density & Energy Variations
-| ∇ = 0.4 | ∇ = 2.0 | ∇ = 5.0 |
-|---------|---------|---------|
-| [ρ0.4.zip](simulations/density/vid_energy_density-nabla-0.4.mp4) | [ρ2.0.zip](simulations/density/vid_energy_density-nabla-2.mp4.zip) | [ρ5.0.zip](simulations/density/vid_energy_density-nabla-5.mp4.zip) |
+| ∇ = 0.4 (Stable) | ∇ = 2.0 (Convective) | ∇ = 5.0 (Turbulent) |
+|------------------|---------------------|---------------------|
+| [📥 Download MP4](simulations/density/vid_energy_density-nabla-0.4.mp4) | [📥 Download MP4](simulations/density/vid_energy_density-nabla-2.mp4) | [📥 Download MP4](simulations/density/vid_energy_density-nabla-5.mp4) |
 
 ## 📊 Key Findings
 - **∇ < 0.4**: System remains in hydrostatic equilibrium, no convection develops
@@ -65,4 +67,4 @@ git clone https://github.com/Ignacioferris/plasma-convection-simulation.git
 cd plasma-convection-simulation
 
 # Run main simulation
-python src/hydro_solver.py
+python src/main.py
