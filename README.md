@@ -22,9 +22,15 @@
 - Used for animation and data visualization
 - **FVis3 Repository**: [lars-frogner/FVis on GitHub](https://github.com/lars-frogner/FVis)
 
-## 🎬 Simulation Results
+# 🎬 Simulation Results
 
 > **📝 Note:** Due to large file sizes, videos must be downloaded to view. Click the links below to download each simulation.
+> 
+> **🎯 Viewing Instructions:** 
+> - **Click** any download link below
+> - On the GitHub page that opens, **click "View raw"** 
+> - The video will **download automatically** to your computer
+> - **Open the downloaded file** to view the simulation
 
 ### Temperature Evolution
 | ∇ = 0.4 (Stable) | ∇ = 2.0 (Convective) | ∇ = 5.0 (Turbulent) |
