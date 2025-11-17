@@ -62,8 +62,6 @@
 ## 📚 Documentation
 - **Full Technical Report**: [REPORT.pdf](docs/REPORT.pdf) - *Click "View raw" to download the PDF*
 - **Academic Context**: Developed for Astrophysics course at University of Oslo
-- **FVis3 Framework**: [lars-frogner/FVis GitHub Repository](https://github.com/lars-frogner/FVis)
-
 ## 🛠️ Installation & Usage
 
 ### Prerequisites
