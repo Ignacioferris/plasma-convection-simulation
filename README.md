@@ -42,7 +42,7 @@
 ### Density & Energy Variations
 | ∇ = 0.4 | ∇ = 2.0 | ∇ = 5.0 |
 |---------|---------|---------|
-| [ρ0.4.zip](simulations/density/vid_energy_density-nabla-0.4.mp4.zip) | [ρ2.0.zip](simulations/density/vid_energy_density-nabla-2.mp4.zip) | [ρ5.0.zip](simulations/density/vid_energy_density-nabla-5.mp4.zip) |
+| [ρ0.4.zip](simulations/density/vid_energy_density-nabla-0.4.mp4) | [ρ2.0.zip](simulations/density/vid_energy_density-nabla-2.mp4.zip) | [ρ5.0.zip](simulations/density/vid_energy_density-nabla-5.mp4.zip) |
 
 ## 📊 Key Findings
 - **∇ < 0.4**: System remains in hydrostatic equilibrium, no convection develops
